@@ -1,14 +1,26 @@
 body {
  padding: 0;  
  margin: 0;
- background: rgb(57, 184, 248);
+ background: rgb(71, 212, 255);
  text-align: center ;
  font-family: Arial;
  color: rgb(0, 0, 0);
 }
 
+.page-body {
+    background: rgb(177, 39, 21);
+}
+
 header {
 
+}
+
+.text-body {
+    background:  rgb(238, 255, 0)
+}
+
+.login-body {
+    background: rgb(66, 165, 42)
 }
 
 
@@ -54,3 +66,15 @@ margin-right: auto;
 nav ul li a {
     padding: 24px;
 }
+
+
+
+
+
+
+
+
+
+
+    
+
