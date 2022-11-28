@@ -7,29 +7,14 @@ body {
  color: rgb(0, 0, 0);
 }
 
-.page-body {
-    background: rgb(177, 39, 21);
-}
-
 header {
 
 }
 
-.text-body {
-    background:  rgb(238, 255, 0)
-}
-
-.login-body {
-    background: rgb(66, 165, 42)
-}
-
-
-
-
 .mitte {
-display: flex;
-justify-content:  center;
-align-items: center;
+    display: flex;
+    justify-content:  center;
+    align-items: center;
 }
 
 #teaser {
